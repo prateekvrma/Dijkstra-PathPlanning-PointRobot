@@ -1,7 +1,4 @@
-# ENPM661: Project 2
 # Implementation of Dijkstra algorithm for a point robot. 
-
-Github Link: https://github.com/prateekvrma/Dijkstra-PathPlanning-PointRobot.git
 
 ## Dependencies
 Python 3.7
@@ -35,7 +32,7 @@ Enter goal x: 330
 Enter goal y: 20
 
 
-5. At last you will see the output: "Goal Reached!!" along with Cost to Come value for the goal position.
+5. At last you will see the output: "Goal Reached!!".
 
 
 ## Results
